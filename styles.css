@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+.containor{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    /* width: 100%; */
+    height: 65px;
+    padding: 0px 40px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1000;
+    background-color: #fff;
+	
+}
+.item{
+	border:1px solid black;
+	
+	
+}
